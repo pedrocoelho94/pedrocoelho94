@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor Front-End com conhecimento em React e NextJs principalmente usando Typescript.
 
-- Portfolio: <a href="https://pedrocoelho.netlify.app/" target="_blank">pedrocoelho.netlify.app</a>
+- 💻 Portfolio: <a href="https://pedrocoelho.netlify.app/" target="_blank">pedrocoelho.netlify.app</a>
 
  <div>
   <a href="https://github.com/pedrocoelho94">
